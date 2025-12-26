@@ -3,7 +3,7 @@ name: Syrianadus
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   deploy:
